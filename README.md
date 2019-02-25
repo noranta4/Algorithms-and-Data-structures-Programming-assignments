@@ -1,6 +1,6 @@
 # Algorithms and Data structures • Programming assignments
 
-Programming assignments of the Algorithms and Data structures course. 
+Programming assignments of the Algorithms and Data structures course, prof. Alessandro Panconesi. 
 
 University project • 2016 - Algorithms and data structures - BSc in Physics, III year
 
